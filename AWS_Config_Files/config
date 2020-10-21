@@ -1,0 +1,5 @@
+[default]
+region = us-east-1
+output = json
+role_arn = MY_ROLE_ARN
+source_profile = default
